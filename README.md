@@ -13,4 +13,4 @@ TO BE ADDED SOON...
 ## Authors :black_nib:
 * **Emmanuel Kwizera** <[Emmanuel-kwizera](https://github.com/Emmanuel-kwizera)> <e.kwizera1@alustudent.com>
 
-* **Junior Rwaka** <[jrwaka](https://github.com/jrwaka)> <e.kwizera1@alustudent.com>
+* **Junior Rwaka** <[jrwaka](https://github.com/jrwaka)> <j.rwaka@alustudent.com>
